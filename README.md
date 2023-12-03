@@ -1,6 +1,7 @@
 # Doc-Share
 
 Hi All, esteemed leaders, and cherished colleagues,
+
 It is both an honour and a privilege to stand before you today, reflecting on a remarkable year within this extraordinary organisation. Allow me to share a little something about my journey form the academic life to the colourful cubicles of corporate life, in college my main concerns was choosing between a black pen or blue pen for note taking and now I am grappling with the existential crisis of deciding whether to “reply all” or only “reply” in those never ending email threads. The acronyms here are like secret codes and I have definitely learned to nod and smile, mastering the art of looking confident even when I have absolutely no idea whats going on.
 My journey began with a sense of anticipation, but little did I know that the experiences awaiting me would not only shape my professional growth but also instil a deep appreciation for the company values, culture, and an unwavering commitment to security.
 Just after joining our organisation, I found myself immersed in a wealth of training opportunities that were both enlightening and empowering. The company's commitment to providing comprehensive training on security protocols and best practices was evident, equipping me with the knowledge and tools necessary to navigate the evolving landscape of cyber threats. One standout experience was the hackathon organised by the company—a dynamic forum where we were not only encouraged to explore our creativity but were also provided with a hands-on understanding of security risks. 
