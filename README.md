@@ -12,4 +12,4 @@ And just after the hackathon I stumbled upon a mail with subject “risk bulleti
 
 It was in the aftermath of the hackathon and all the learnings which I got from the team, that I identified a potential risk within my application. The risk was about “weak configuration of backend APIs which let unauthorised people to access it and about storing sensitive user auth data in logs”. What followed were steps that showcased the unwavering support of my managers, team, and leadership. They not only listened attentively to the concerns I raised but provided guidance and resources to ensure that the identified risk was appropriately logged and addressed and this whole process was a great learning opportunity which also helped me understand how as a organisation we mitigate risk and how “Identify”, “Escalate” and “Debate” really works. 
 
-In closing,I am really thank full for the unwavering support, the invaluable lessons, and the privilege of being a part of this exceptional GFRR team.
+In closing,I am really thank full for all the support, the invaluable lessons, and the privilege of being a part of this exceptional GFRR team.
